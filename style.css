@@ -1,0 +1,50 @@
+html{
+  background-color:aliceblue
+}
+
+.container {
+    margin : 1em auto;
+    padding : 1em;
+    background-color:#d3e5f2;
+    height: 50%;
+    width: 50%;
+    border: 0.25em dodgerblue solid;
+}
+
+#btn{
+  align: left;
+}
+
+
+.massage{
+  background-color:lightblue;
+  height: auto;
+  width: 700px;
+  padding:auto;
+  margin:auto;
+}
+
+#inputs {
+    align: center;
+    width: auto;
+    margin:1em;
+}
+
+#inputs input{
+  align: center;
+   display:inline-block;
+      width : 30%;
+      text-align: center;
+      font-weight: bold;
+      padding: 0.5em;
+      margin: 0.5em;
+}
+
+#inputs label{
+  align: center;
+      display:inline-block;
+      width : 30%;
+      font-weight: bold;
+      padding: 0.5em;
+      margin: 0.5em;
+}
